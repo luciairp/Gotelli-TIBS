@@ -1,0 +1,8 @@
+# Table X. Table legend
+# 
+# timestamp: 14 octubre 2026 12:10:24
+# ------------------------
+# 
+"Species","Control","Low","High"
+"Species_A",0.929,0.039,0.935
+"Species_B",0.334,0.197,0.106

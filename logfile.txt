@@ -1,0 +1,12 @@
+logfile: logfile.txt
+#######################
+R version: R version 4.4.2 (2024-10-31 ucrt)
+platform: x86_64-w64-mingw32/x64
+running: Windows 11 x64 (build 26200)
+#----------------------
+random number seed: 947780674
+timestamp: Wed Oct 14 12:51:39 2026
+#----------------------
+libraries loaded:
+devtools lobstr pak pracma upscaler usethis
+#######################
